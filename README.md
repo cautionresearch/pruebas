@@ -1,3 +1,3 @@
 # pruebas
 ###### markDown probando 
-!(img/probandobebe.jpg)
+!(probando bebe.jpeg)
