@@ -1,3 +1,3 @@
 # pruebas
 ###### markDown probando 
-!(23jpg)
+![esto es una foto](23.jpg)
